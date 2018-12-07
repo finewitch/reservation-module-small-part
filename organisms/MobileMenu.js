@@ -43,11 +43,11 @@ class MobileMenu extends React.Component {
                 <div className="aside-content aside-content--menu">
                     <nav className="navbar-default navbar-static-side" role="navigation">
                         <ul className="nav metismenu">
-                            <li><a href="/reservations"><img src="/static/images/icons/menu-icons/reservations-green.svg" className="menu-icon" />Rezerwacje</a></li>
-                            <li><a href="/benefits"><img src="/static/images/icons/menu-icons/benefits-green.svg" className="menu-icon" />Benefity</a></li>
-                            <li><a href="/building"><img src="/static/images/icons/menu-icons/building-green.svg" className="menu-icon" />Budynek</a></li>
-                            <li><a href="/profile"><img src="/static/images/icons/menu-icons/community-green.svg" className="menu-icon" />Profil</a></li>
-                            <li><a href="/help"><img src="/static/images/icons/menu-icons/help-green.svg" className="menu-icon" />Help</a></li>
+                            <li><a href="/reservations"><img src="/static/images/icons/menu-icons/reservations-green.svg" alt=""  className="menu-icon" />Rezerwacje</a></li>
+                            <li><a href="/benefits"><img src="/static/images/icons/menu-icons/benefits-green.svg"  alt="" className="menu-icon" />Benefity</a></li>
+                            <li><a href="/building"><img src="/static/images/icons/menu-icons/building-green.svg"  alt="" className="menu-icon" />Budynek</a></li>
+                            <li><a href="/profile"><img src="/static/images/icons/menu-icons/community-green.svg" alt="" className="menu-icon" />Profil</a></li>
+                            <li><a href="/help"><img src="/static/images/icons/menu-icons/help-green.svg" alt=""  className="menu-icon" />Help</a></li>
                         </ul>
                     </nav>
                 </div>
